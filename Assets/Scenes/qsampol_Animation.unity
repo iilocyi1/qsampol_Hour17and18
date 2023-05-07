@@ -139,7 +139,7 @@ Animator:
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: e869e7fdf15fb2e4d884346c766a35f9, type: 2}
-  m_CullingMode: 0
+  m_CullingMode: 1
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
   m_LinearVelocityBlending: 0
@@ -148,6 +148,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &491338303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 491338300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d290de4227a291744865e19f562adf15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &949962521 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3349611704068611715, guid: e7f5e021a9cc9cb4988a2f68f8ad7fb0, type: 3}
